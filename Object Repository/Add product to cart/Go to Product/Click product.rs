@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click product</name>
+   <tag></tag>
+   <elementGuidId>7b5f295d-43b6-4b55-8c0f-04385ed4956b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/header/div/div/div/div[3]/div/nav/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#wrapper >> internal:role=link[name=&quot;Sản phẩm&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d8614b0e-8785-4453-992f-c430a7682c29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_item</value>
+      <webElementGuid>177e4888-b86a-4180-b547-f5cdfb1bc59b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/san-pham</value>
+      <webElementGuid>8a62a1d4-c5f9-4fc0-a122-5b2b61260c5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>c4326d3b-9dc6-408d-a151-bf75426b9132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sản phẩm </value>
+      <webElementGuid>39b620ac-2443-4e70-9dcf-8aa52d0229f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/header[@class=&quot;header&quot;]/div[@class=&quot;header-middle&quot;]/div[@class=&quot;container h-full&quot;]/div[@class=&quot;header-middle__wrap flex-center-between w-100 gap-8&quot;]/div[@class=&quot;flex items-center justify-end gap-8 h-full&quot;]/div[@class=&quot;menu-header max-xl:hidden&quot;]/nav[@class=&quot;menu-nav&quot;]/ul[@class=&quot;menu-nav__content&quot;]/li[@class=&quot;menu_level1&quot;]/a[@class=&quot;menu_item&quot;]</value>
+      <webElementGuid>9484c794-27d0-4633-9a93-dc311f6199f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/header/div/div/div/div[3]/div/nav/ul/li[2]/a</value>
+      <webElementGuid>aad8b61f-9568-4ae9-9da7-8787d71404cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sản phẩm')]</value>
+      <webElementGuid>3c28dbd0-0649-463b-bb1d-b21d24807e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trang chủ'])[2]/following::a[1]</value>
+      <webElementGuid>50f779fd-4800-46d0-b28f-ec4d4dcb28b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giới thiệu'])[1]/preceding::a[1]</value>
+      <webElementGuid>d4abf8c1-7f34-4e20-875d-178ac059a169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bảo hành'])[1]/preceding::a[2]</value>
+      <webElementGuid>4cf14545-987e-4ab8-a838-0a23a09a875b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sản phẩm']/parent::*</value>
+      <webElementGuid>bc13690b-0a1e-4a53-8e2f-177528f34ad6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/san-pham')]</value>
+      <webElementGuid>c57da81e-ddbe-44d5-9000-8ba25dc8cc0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>d16fc5e5-186b-49b5-9900-10519f8c6c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/san-pham' and (text() = 'Sản phẩm ' or . = 'Sản phẩm ')]</value>
+      <webElementGuid>886605e5-4027-43e8-82e8-8aa403559e76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>go to detail product</name>
+   <tag></tag>
+   <elementGuidId>5885a379-8aef-4659-a7b2-a157c6cf79c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='listdata']/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Loa âm thanh 1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fe72bf7a-8e13-45ea-9a43-a1f598a89d52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://maxe.chanh.in/loa-am-thanh-1.html</value>
+      <webElementGuid>888e4a0b-bf78-4d68-bcc4-4703488025eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block</value>
+      <webElementGuid>d4fc88c8-f4d0-4c54-8b29-49798cdc4e91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Loa âm thanh 1 </value>
+      <webElementGuid>d21bf350-3731-4f4e-9770-5ce36501f846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;listdata&quot;)/div[@class=&quot;w-full grid !grid-cols-2 lg:!grid-cols-3 gap-x-[16px] gap-y-[24px]&quot;]/div[@class=&quot;group&quot;]/div[@class=&quot;pt-[16px] md:pr-[16px]&quot;]/div[@class=&quot;text-[16px]/[22px] mb-[4px] min-h-[44px] line-clamp-2&quot;]/a[@class=&quot;block&quot;]</value>
+      <webElementGuid>759eb595-0d19-4436-ba6b-b2a573415466</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='listdata']/div/div/div/div/a</value>
+      <webElementGuid>c6196a1f-16d6-4fa5-b6c8-bea23f3d3ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Loa âm thanh 1')]</value>
+      <webElementGuid>09a6c30a-5e79-4d3e-a3ad-0611708c0a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hiển thị 1 - 3 trong số 3 kết quả'])[1]/following::a[2]</value>
+      <webElementGuid>1703562e-deee-4cff-adf6-6749c66caf63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem thêm'])[1]/following::a[2]</value>
+      <webElementGuid>0f20f56b-c52e-4e36-a211-373107aa3cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua ngay'])[1]/preceding::a[1]</value>
+      <webElementGuid>5adf98e1-6062-4584-8f16-1994dabfa591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loa âm thanh'])[1]/preceding::a[4]</value>
+      <webElementGuid>fdcba0b0-e71e-4581-b57c-2aaba966d619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Loa âm thanh 1']/parent::*</value>
+      <webElementGuid>be680b8a-c2f4-4c0b-b721-e3395cbca4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://maxe.chanh.in/loa-am-thanh-1.html')])[2]</value>
+      <webElementGuid>78725792-3540-49df-93cc-63dbd878d1df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/a</value>
+      <webElementGuid>a912f6ca-f236-45f1-955b-883b71b0cf3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://maxe.chanh.in/loa-am-thanh-1.html' and (text() = ' Loa âm thanh 1 ' or . = ' Loa âm thanh 1 ')]</value>
+      <webElementGuid>a08954c5-00e4-417b-aad8-ec6fbd877d60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
