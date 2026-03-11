@@ -31,7 +31,7 @@ WebUI.click(findTestObject('Add product to cart/Page_Sn phm/close shopping cart'
 
 WebUI.click(findTestObject('Add product to cart/Go to detail product/input_quantity'))
 
-WebUI.setText(findTestObject('Add product to cart/Go to detail product/input_quantity'), '5')
+WebUI.setText(findTestObject('Add product to cart/Go to detail product/input_quantity'), '1')
 
 WebUI.click(findTestObject('Add product to cart/Go to detail product/Add product to cart_detail'))
 

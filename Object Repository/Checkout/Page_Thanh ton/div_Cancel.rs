@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cancel</name>
+   <tag></tag>
+   <elementGuidId>3b746a32-390a-466f-9772-b33684f545dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='vat-payment-popup']/div[2]/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.popup-dialog__footer > div.flex-center-between > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Huỷ bỏ&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6e557e0b-b2ff-40e4-a738-97b6a15be1d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Huỷ bỏ</value>
+      <webElementGuid>0fbe55cd-d043-4da2-87a2-eb4c58838948</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;vat-payment-popup&quot;)/div[@class=&quot;popup-dialog&quot;]/div[@class=&quot;popup-dialog__footer&quot;]/div[@class=&quot;flex-center-between&quot;]/div[1]</value>
+      <webElementGuid>fb125631-a063-4561-b28e-1a172ce61288</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='vat-payment-popup']/div[2]/div[3]/div/div</value>
+      <webElementGuid>b5b884f8-deb8-4f56-a319-16007f6c8bdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sử dụng địa chỉ giao hàng'])[1]/following::div[3]</value>
+      <webElementGuid>f6ed199f-f778-4c7c-8893-6a94eddf1237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Địa chỉ công ty *'])[1]/following::div[4]</value>
+      <webElementGuid>f61163cd-f516-4987-a677-008380b19a36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hoàn tất'])[1]/preceding::div[1]</value>
+      <webElementGuid>c6cca4c3-78fd-4fd9-a6a3-a62b9674fe8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin đơn hàng'])[1]/preceding::div[2]</value>
+      <webElementGuid>3e6f0771-9350-401f-b0fd-2839227998f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Huỷ bỏ']/parent::*</value>
+      <webElementGuid>f4ca4ebb-dd96-4e7c-91e0-ec3d2e3f507a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div</value>
+      <webElementGuid>c5c9af9a-04e4-415e-bfdf-463f95e6d083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Huỷ bỏ' or . = 'Huỷ bỏ')]</value>
+      <webElementGuid>7ce08258-832c-4300-8792-943379001519</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

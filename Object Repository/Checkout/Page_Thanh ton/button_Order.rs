@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Order</name>
+   <tag></tag>
+   <elementGuidId>8a22c761-2a21-4947-9212-c2fb2c8445f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Hoàn tất&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4c52deb4-b330-45a5-a93e-bfbb189e801c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-checkout paymentAccept lg:flex lg:items-center lg:justify-center hidden w-full h-11 rounded-full transition-opacity duration-300 hover:opacity-80 bg-colorMain</value>
+      <webElementGuid>0527115f-5403-451b-84fe-4ebb77671333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>821c7537-d8f0-4919-936d-2bbea9263d23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Hoàn tất</value>
+      <webElementGuid>1ed9c089-9dc2-467c-a8bc-cb8af0019f60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Đặt hàng      </value>
+      <webElementGuid>a79d0d58-55f8-401c-ac92-a6e1c2b0ca28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;payment-check&quot;)/div[@class=&quot;flex md:flex-row flex-col gap-[32px]&quot;]/div[@class=&quot;xl:w-[482px] md:w-[calc(50%-16px)]&quot;]/button[@class=&quot;btn-checkout paymentAccept lg:flex lg:items-center lg:justify-center hidden w-full h-11 rounded-full transition-opacity duration-300 hover:opacity-80 bg-colorMain&quot;]</value>
+      <webElementGuid>b5476702-18f7-4a56-81d2-9b7e4a643c78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>7c305695-5397-485f-afa1-7c9ff36b552b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='payment-check']/div/div[2]/button</value>
+      <webElementGuid>eb010e19-45d2-4b08-a918-2880202ef001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bằng việc tiếp tục, bạn đồng ý với Chính sách bán hàng của chúng tôi.'])[1]/following::button[1]</value>
+      <webElementGuid>0bc410c7-8307-45ae-b758-0a0d0c7ed079</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yêu cầu xuất hoá đơn'])[1]/following::button[1]</value>
+      <webElementGuid>0fc1b1f2-d464-4d5a-aa70-a9b5002f7fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>542b36af-51c3-4bd9-b471-01150d3154ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '   Đặt hàng      ' or . = '   Đặt hàng      ')]</value>
+      <webElementGuid>f13e4bcf-81f5-46be-bf33-87b4b418fa6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
