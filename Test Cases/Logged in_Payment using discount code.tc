@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logged in_Payment using discount code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7fd019f-0244-4cf7-8ebd-f911368b20ce</testCaseGuid>
+</TestCaseEntity>

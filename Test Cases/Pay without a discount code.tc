@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pay without a discount code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00b144cc-0b6b-4738-9b65-8b7177c2ad9a</testCaseGuid>
+</TestCaseEntity>
