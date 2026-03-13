@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cart-quantity_button_tang</name>
+   <tag></tag>
+   <elementGuidId>a010fa7c-a021-4524-b5fa-abf8f0b61ec5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-page__content']/div/div/div[3]/div/div/div[2]/div/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.cart-quantity > div:nth-child(3) >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d38dcf3-c0ce-46c8-998b-33fa03e4ee90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-quantity__button action-cart plus group hover:bg-colorMain flex-[0_0_36px] h-[36px] flex items-center justify-center cursor-pointer bg-[#fff]</value>
+      <webElementGuid>c61230b1-28d9-4e5d-95f7-853424320f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>6e1cadb0-5724-40d2-b242-019411c3b894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>d7bfb50013a02113c86b34f48bb952a1</value>
+      <webElementGuid>758b9ba9-199d-406f-b936-4f2f064502b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-page__content&quot;)/div[@class=&quot;w-full block xl:px-[72px] md:px-4 px-0 cart-sidebar__wrapper checkout-page__cart&quot;]/div[@class=&quot;cart-wrap w-full p-4 md:p-8 border-checkout-cart rounded-lg rounded-[8px] bg-[#F3F3F3]&quot;]/div[@class=&quot;checkout-page__cart--cart-list&quot;]/div[@class=&quot;py-6 border-b border-[#C3C6CF] last:border-b-0 relative&quot;]/div[@class=&quot;flex items-start justify-between cart-item gap-4&quot;]/div[@class=&quot;flex md:flex-row flex-col md:items-center items-start justify-between gap-4 md:w-[calc(100%-92px)] w-[calc(100%-40px)]&quot;]/div[@class=&quot;md:w-[calc(100%-134px)] w-full&quot;]/div[2]/div[@class=&quot;cart flex justify-start items-center gap-2 !my-0&quot;]/div[@class=&quot;cart-quantity flex flex-wrap border border-solid border-[#E3E2E6] rounded flex-[0_0_140px] overflow-hidden h-full&quot;]/div[@class=&quot;cart-quantity__button action-cart plus group hover:bg-colorMain flex-[0_0_36px] h-[36px] flex items-center justify-center cursor-pointer bg-[#fff]&quot;]</value>
+      <webElementGuid>172f4581-d026-4e58-9c68-338ed287f7c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-page__content']/div/div/div[3]/div/div/div[2]/div/div[2]/div/div/div[2]</value>
+      <webElementGuid>43b94f79-8746-4e8f-bfb4-9e7e5d46b83b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loa âm thanh 1'])[1]/following::div[5]</value>
+      <webElementGuid>e60912c3-05fb-437b-a7f0-d4105d238415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loa âm thanh'])[1]/preceding::div[4]</value>
+      <webElementGuid>1953e392-dcfe-4baa-bbeb-32cc858d816a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iphone 14 Xanh lá'])[1]/preceding::div[17]</value>
+      <webElementGuid>5a1e5a22-5d4b-45a4-a28b-51e96485df11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div[2]</value>
+      <webElementGuid>00a3ff2e-eee1-4f5e-aa93-3f99f298a4e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

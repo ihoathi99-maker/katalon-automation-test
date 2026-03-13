@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cart-quantity_button_giam</name>
+   <tag></tag>
+   <elementGuidId>639444fa-9cbf-4a0a-af7b-8ed3bf05c733</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-page__content']/div/div/div[3]/div/div/div[2]/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.cart-quantity__button >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7be5f286-a1cf-4b80-9bd2-88b690dbeabb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart-quantity__button action-cart minus group hover:bg-colorMain flex-[0_0_36px] h-[36px] flex items-center justify-center cursor-pointer bg-[#fff]</value>
+      <webElementGuid>3852076f-c963-4553-bd19-fd05180b6982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>sub</value>
+      <webElementGuid>19ed9c19-0667-4031-b693-e3f250b15863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>d7bfb50013a02113c86b34f48bb952a1</value>
+      <webElementGuid>33ee9b18-8d6d-47d7-9d59-8d10bde762b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-page__content&quot;)/div[@class=&quot;w-full block xl:px-[72px] md:px-4 px-0 cart-sidebar__wrapper checkout-page__cart&quot;]/div[@class=&quot;cart-wrap w-full p-4 md:p-8 border-checkout-cart rounded-lg rounded-[8px] bg-[#F3F3F3]&quot;]/div[@class=&quot;checkout-page__cart--cart-list&quot;]/div[@class=&quot;py-6 border-b border-[#C3C6CF] last:border-b-0 relative&quot;]/div[@class=&quot;flex items-start justify-between cart-item gap-4&quot;]/div[@class=&quot;flex md:flex-row flex-col md:items-center items-start justify-between gap-4 md:w-[calc(100%-92px)] w-[calc(100%-40px)]&quot;]/div[@class=&quot;md:w-[calc(100%-134px)] w-full&quot;]/div[2]/div[@class=&quot;cart flex justify-start items-center gap-2 !my-0&quot;]/div[@class=&quot;cart-quantity flex flex-wrap border border-solid border-[#E3E2E6] rounded flex-[0_0_140px] overflow-hidden h-full&quot;]/div[@class=&quot;cart-quantity__button action-cart minus group hover:bg-colorMain flex-[0_0_36px] h-[36px] flex items-center justify-center cursor-pointer bg-[#fff]&quot;]</value>
+      <webElementGuid>facb59e5-78c6-4b74-9557-a32e2a1aa26c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-page__content']/div/div/div[3]/div/div/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>a20400c6-f685-46fd-af2b-29de07763a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loa âm thanh 1'])[1]/following::div[4]</value>
+      <webElementGuid>2f92d608-fef3-495a-9a4e-463141686825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loa âm thanh'])[1]/preceding::div[5]</value>
+      <webElementGuid>b8fbf3d7-2035-40bb-a8a8-6adf9d311097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iphone 14 Xanh lá'])[1]/preceding::div[18]</value>
+      <webElementGuid>a4e2d563-63c8-4728-a966-91d19fac9ffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>056ea354-556c-4942-af92-26390a6c393c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

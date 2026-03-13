@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add product to cart 2</name>
+   <tag></tag>
+   <elementGuidId>f809f538-49f1-4d47-92aa-fe22e63b1066</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='listdata']/div/div[2]/div[2]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Thêm giỏ hàng&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>756f25d1-9f78-475c-8735-c602205d479b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>88f92da3-abde-4dc3-a7a5-c643d001230d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Thêm giỏ hàng</value>
+      <webElementGuid>3e4af7b9-6185-49d3-a5de-034a13ef2e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-lg flex items-center justify-center gap-2 bg-orange cursor-pointer hover:opacity-80 w-fit !px-2 !h-[35px] only-add btn-add__cart content-bottom flex-[0_0_35px]</value>
+      <webElementGuid>041f10a9-7725-4553-85c2-168617823773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>44</value>
+      <webElementGuid>713b2045-bfeb-45e3-bc5c-270d7f454cb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-variant_id</name>
+      <type>Main</type>
+      <value>73</value>
+      <webElementGuid>af514e76-36b9-4367-a197-d4d773da9c48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-require</name>
+      <type>Main</type>
+      <value>Vui lòng chọn phân loại hàng</value>
+      <webElementGuid>354f4e11-83e3-411e-af9f-1015947cbbe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Thêm giỏ hàng</value>
+      <webElementGuid>a77f7a5a-8e80-4461-af92-c22f27208138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-none</name>
+      <type>Main</type>
+      <value>Hết hàng</value>
+      <webElementGuid>ed1aea97-f3e4-4213-9019-9119c20f2169</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;listdata&quot;)/div[@class=&quot;w-full grid !grid-cols-2 lg:!grid-cols-3 gap-x-[16px] gap-y-[24px]&quot;]/div[@class=&quot;group&quot;]/div[@class=&quot;mt-[27px]&quot;]/div[@class=&quot;flex justify-between gap-1&quot;]/a[@class=&quot;rounded-lg flex items-center justify-center gap-2 bg-orange cursor-pointer hover:opacity-80 w-fit !px-2 !h-[35px] only-add btn-add__cart content-bottom flex-[0_0_35px]&quot;]</value>
+      <webElementGuid>dc20bfb6-d83e-4840-b534-4b1a8ced353c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='listdata']/div/div[2]/div[2]/div/a[2]</value>
+      <webElementGuid>adc14111-49e5-4df2-a9a6-a3042cbf1330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua ngay'])[2]/following::a[1]</value>
+      <webElementGuid>78d2b152-300a-4d45-8768-43f124c27953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loa âm thanh'])[1]/following::a[2]</value>
+      <webElementGuid>dfa89b59-de2c-4eb7-abed-42fb13512954</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iphone 14'])[1]/preceding::a[2]</value>
+      <webElementGuid>be274d56-11f6-4d30-8c5a-e106de0ad76b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua ngay'])[3]/preceding::a[3]</value>
+      <webElementGuid>7850fde6-4f25-4f7d-8a2f-3c7e131ef603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[5]</value>
+      <webElementGuid>223f3b9a-89b7-43ed-a984-69f45488d2e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a[2]</value>
+      <webElementGuid>c9d9d23d-ebbf-4555-ae27-9875fed57050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and @title = 'Thêm giỏ hàng']</value>
+      <webElementGuid>fd25938d-45d6-422a-8622-3321e6caa539</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
