@@ -17,6 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('https://maxe.chanh.in')
+
 'Trang sản phẩm được mở lên'
 WebUI.click(findTestObject('Add product to cart/Go to Product/Click product'))
 

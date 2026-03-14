@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.click(findTestObject('Add product to cart/Go to Product/Click product'))
 
-WebUI.click(findTestObject('Add product to cart/Page_Sn phm/Add product to cart'))
+WebUI.click(findTestObject('Add product to cart/Page_Sn phm/Add product to cart 1'))
 
 WebUI.click(findTestObject('Add product to cart/Page_Sn phm/Xem gio hang'))
 

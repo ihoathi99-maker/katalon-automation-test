@@ -17,9 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('https://maxe.chanh.in/')
+
 WebUI.click(findTestObject('Add product to cart/Go to Product/Click product'))
 
-WebUI.click(findTestObject('Add product to cart/Page_Sn phm/Add product to cart'))
+WebUI.click(findTestObject('Add product to cart/Page_Sn phm/Add product to cart 1'))
 
 WebUI.click(findTestObject('Add product to cart/Page_Sn phm/close shopping cart'))
 
@@ -29,9 +31,18 @@ WebUI.click(findTestObject('Add product to cart/Go to detail product/Add product
 
 WebUI.click(findTestObject('Add product to cart/Page_Sn phm/close shopping cart'))
 
+'Click vào ô số lượng'
 WebUI.click(findTestObject('Add product to cart/Go to detail product/input_quantity'))
 
-WebUI.setText(findTestObject('Add product to cart/Go to detail product/input_quantity'), '1')
+'Chọn toàn bộ số lượng hiện tại'
+WebUI.sendKeys(findTestObject('Add product to cart/Go to detail product/input_quantity'), 'CTRL + A')
+
+WebUI.sendKeys(findTestObject('Add product to cart/Go to detail product/input_quantity'), 'BACK_SPACE')
+
+'Nhập số lượng mới'
+WebUI.setText(findTestObject('Add product to cart/Go to detail product/input_quantity'), '3')
+
+WebUI.sendKeys(findTestObject('Add product to cart/Go to detail product/input_quantity'), 'TAB')
 
 WebUI.click(findTestObject('Add product to cart/Go to detail product/Add product to cart_detail'))
 

@@ -19,17 +19,17 @@
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f11fc09b-ab3e-4c79-a13e-06d448a58dfd</guid>
+      <guid>8112fc32-1eeb-407b-9681-ba9feab1a9c0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Add products to your shopping cart</testCaseId>
+      <testCaseId>Test Cases/Add to cart</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>253a20d0-1adb-4cc5-8052-2613817f1a4e</guid>
+      <guid>a5b50a8d-7d65-48d6-ac42-043f364654a7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Logged in_Payment without using discount code</testCaseId>
+      <testCaseId>Test Cases/Update cart</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

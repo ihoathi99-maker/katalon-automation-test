@@ -31,5 +31,5 @@ WebUI.click(findTestObject('Cart/Page_Gi hng/checkbox_cart-item 1'))
 
 WebUI.click(findTestObject('Cart/Page_Gi hng/input_quantity_ giohang'))
 
-WebUI.setText(findTestObject('Cart/Page_Gi hng/input_quantity_ giohang'), '0')
+WebUI.setText(findTestObject('Cart/Page_Gi hng/input_quantity_ giohang'), '1')
 
